@@ -2,14 +2,15 @@
 
 Name: Nikunj Raikundliya
 
-Role: 3D Model Designer & Full‑Stack Developer
+Role: Full Stack Developer
 
-Location: Mumbai, India (UTC+05:30)
+Location: Mumbai, India
 
-Education: B.Tech in Computer Science
+Education: B.Tech in Information Technology
 
+College: D.J Sanghvi College of Engineering
 
-I build interactive 3D assets, AI‑powered web apps, and full‑stack solutions using modern JavaScript frameworks and Python. I’m passionate about creating intuitive user experiences and automating complex workflows.
+I build interactive AI‑powered web apps, and full stack solutions using modern JavaScript frameworks and Python. I’m passionate about creating intuitive user experiences and automating complex workflows.
 
 
 ---
@@ -53,10 +54,7 @@ AI‑powered career assistant offering ATS scoring, keyword optimization, interv
 6. HabitMaster (habitmaster)
 Full‑stack habit tracker with daily marking, calendar visualization, and streak analytics. Developed using React, Vite, Express, PostgreSQL, and Drizzle ORM.
 
-
-
-For a complete list of repositories and small utilities, visit my GitHub profile.
-
+These are the Projects I have proudly built!
 
 ---
 
