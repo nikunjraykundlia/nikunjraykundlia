@@ -54,6 +54,9 @@ AI‑powered career assistant offering ATS scoring, keyword optimization, interv
 6. HabitMaster (habitmaster)
 Full‑stack habit tracker with daily marking, calendar visualization, and streak analytics. Developed using React, Vite, Express, PostgreSQL, and Drizzle ORM.
 
+7. Interview Agent (interview-ai)
+InterviewAI is a smart, full-stack mock interview platform that simulates real-life technical interviews. Leveraging AI, it generates role-specific questions, analyzes user responses, scores performance, and offers personalized feedback — all in one seamless experience.
+
 These are the Projects I have proudly built!
 
 ---
