@@ -20,9 +20,8 @@ I build interactive AI‑powered web apps, and full stack solutions using modern
 Domain	Technologies & Tools
 
 Frontend	React · Vite · HTML5 · CSS3 · Tailwind CSS · Radix UI · Chart.js
-Backend	Node.js · Express · Python · Flask · Drizzle ORM · Mongoose · SQLAlchemy
-3D Design	Blender · 3ds Max · Substance Painter
-AI/ML	OpenAI GPT-4o · spaCy · scikit-learn · PyTorch · Ollama (Llama)
+Backend	Node.js · Express · Python · Flask · Drizzle ORM · Mongoose · SQLAlchemy · NextJS
+AI/ML	OpenAI GPT-4o · spaCy · scikit-learn · PyTorch · Ollama
 DevOps	Git · GitHub Actions · Docker · Render · Vercel
 
 
