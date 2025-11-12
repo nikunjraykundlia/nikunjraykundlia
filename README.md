@@ -10,7 +10,7 @@ Education: B.Tech in Information Technology
 
 College: D.J Sanghvi College of Engineering
 
-I build interactive AI‑powered web apps, and full stack solutions using modern JavaScript frameworks and Python. I’m passionate about creating intuitive user experiences and automating complex workflows.
+I build interactive AI‑powered web apps, and full stack solutions using modern JavaScript frameworks and Python. I’m passionate about creating intuitive user experiences and automating complex workflows using automation.
 
 
 ---
@@ -19,10 +19,12 @@ I build interactive AI‑powered web apps, and full stack solutions using modern
 
 Domain 	Technologies & Tools
 
-Frontend	React · Vite · HTML5 · CSS3 · Tailwind CSS · Radix UI · Chart.js
-Backend	Node.js · Express · Python · Flask · Drizzle ORM · Mongoose · SQLAlchemy · NextJS · N8N (AI Automation)
-AI/ML	OpenAI GPT-4o · spaCy · scikit-learn · PyTorch · Ollama
-DevOps	Git · GitHub Actions · Docker · Render · Vercel
+· Frontend	React · Vite · HTML5 · CSS3 · Tailwind CSS · Radix UI · Chart.js
+Backend	Node.js · Express
+
+· Python · Flask · Drizzle ORM · Mongoose · SQLAlchemy · NextJS · N8N (AI Automation)
+
+· AI/ML	OpenAI GPT-4o · spaCy · scikit-learn · PyTorch · Ollama · GitHub Actions · Docker · Render · Vercel
 
 
 
