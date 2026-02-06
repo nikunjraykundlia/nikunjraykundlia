@@ -109,19 +109,15 @@ const nikunj = {
 ### Core Competencies
 
 ```text
-Full Stack Development  ████████████████████░  90%
-AI/ML Integration       ███████████████████░░  70%
-Backend Architecture    ████████████████████░  80%
+Full Stack Development  █████████████████░░░░  90%
+AI/ML Integration       ██████████████░░░░░░░  75%
+Backend Architecture    ████████████████░░░░░  80%
 Frontend Engineering    ███████████████████░░  95%
 Database Design         ██████████████████░░░  85%
-Workflow Automation     ███████████████████░░  96%
-DevOps & Deployment     ████████████████░░░░░  81%
-API Development         ████████████████████░  94%
+Workflow Automation     ███████████████████░░  95%
+DevOps & Deployment     ████████████████░░░░░  80%
+API Development         ███████████████████░░  95%
 ```
-
-### Language Proficiency
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjraykundlia&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
 
 </div>
 
