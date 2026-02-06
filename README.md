@@ -340,8 +340,8 @@ const currentProjects = {
 ### I'm always excited to collaborate on innovative projects!
 
 [![Email](https://img.shields.io/badge/Email-nikunjraikundliya7%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikunjraikundliya7@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikunjraykundlia)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikunjraykundlia.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikunjraikundliya)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://goartificial.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikunjraykundlia)
 
 <br>
