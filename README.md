@@ -109,14 +109,14 @@ const nikunj = {
 ### Core Competencies
 
 ```text
-Full Stack Development  ████████████████████░  95%
-AI/ML Integration       ███████████████████░░  90%
-Backend Architecture    ████████████████████░  92%
-Frontend Engineering    ███████████████████░░  88%
+Full Stack Development  ████████████████████░  90%
+AI/ML Integration       ███████████████████░░  70%
+Backend Architecture    ████████████████████░  80%
+Frontend Engineering    ███████████████████░░  95%
 Database Design         ██████████████████░░░  85%
-Workflow Automation     ███████████████████░░  87%
-DevOps & Deployment     ████████████████░░░░░  78%
-API Development         ████████████████████░  93%
+Workflow Automation     ███████████████████░░  96%
+DevOps & Deployment     ████████████████░░░░░  81%
+API Development         ████████████████████░  94%
 ```
 
 ### Language Proficiency
@@ -324,9 +324,9 @@ Watermark-free downloads • TypeScript/Express • Socket.IO real-time updates 
 
 ```javascript
 const currentProjects = {
-    learning: ["Advanced AI Agents", "Microservices Architecture", "Cloud Native Development"],
+    learning: ["Advanced AI Agents", "Microservices Architecture", "Advanced N8N Workflows"],
     building: ["Next-Gen AI Interview Platform", "Automated Workflow Solutions"],
-    exploring: ["LangChain", "Vector Databases", "Edge Computing"],
+    exploring: ["LangChain", "Voice AI Agents"],
     collaborating: "Open to exciting full-stack and AI/ML projects!"
 };
 ```
