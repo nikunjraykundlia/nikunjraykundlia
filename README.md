@@ -17,10 +17,6 @@ const nikunj = {
     location: "Mumbai, India 🇮🇳",
     education: "B.Tech in Information Technology",
     college: "D.J. Sanghvi College of Engineering",
-    currentFocus: ["AI/ML Integration", "Full Stack Development", "Workflow Automation"],
-    lifePhilosophy: "Code is poetry, and I write sonnets in JavaScript & Python",
-    funFact: "I automate everything - including my coffee breaks ☕",
-    availability: "Open to exciting opportunities and collaborations!"
 };
 ```
 
@@ -42,7 +38,7 @@ const nikunj = {
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
 <br><b>AI/ML Integration</b>
-<br>Leveraging GPT-4, LLMs & ML models in production apps
+<br>Leveraging GPT-5.2, LLMs & ML models in production apps
 </td>
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/automation.png" width="50"/>
@@ -320,8 +316,8 @@ Watermark-free downloads • TypeScript/Express • Socket.IO real-time updates 
 
 ```javascript
 const currentProjects = {
-    learning: ["Advanced AI Agents", "Microservices Architecture", "Advanced N8N Workflows"],
-    building: ["Next-Gen AI Interview Platform", "Automated Workflow Solutions"],
+    learning: ["Advanced AI Agents", "Advanced N8N Workflows"],
+    building: ["Agentic Interview Platform", "Automated Workflow Solutions"],
     exploring: ["LangChain", "Voice AI Agents"],
     collaborating: "Open to exciting full-stack and AI/ML projects!"
 };
