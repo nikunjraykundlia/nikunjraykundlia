@@ -3,9 +3,6 @@
 <!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nikunj%20Raikundliya&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=51&descSize=18" width="100%"/>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=Building+the+Future+with+Code+%F0%9F%9A%80;Full+Stack+Developer+%7C+AI+Engineer" alt="Typing SVG" /></a>
-
 </div>
 
 ---
@@ -41,7 +38,7 @@ const nikunj = {
 <br>Leveraging GPT-5.2, LLMs & ML models in production apps
 </td>
 <td align="center" width="33%">
-<img src="https://img.icons8.com/fluency/96/000000/automation.png" width="50"/>
+<img src="https://i.ibb.co/Z6kqFRD3/logo-n8n2x-removebg-preview.png" width="50"/>
 <br><b>Workflow Automation</b>
 <br>Streamlining processes with N8N & intelligent systems
 </td>
@@ -105,13 +102,13 @@ const nikunj = {
 ### Core Competencies
 
 ```text
-Full Stack Development  █████████████████░░░░  90%
-AI/ML Integration       ██████████████░░░░░░░  75%
-Backend Architecture    ████████████████░░░░░  80%
+Full Stack Development  ██████████████████░░░  90%
+AI/ML Integration       █████████████░░░░░░░░  75%
+Backend Architecture    ███████████████░░░░░░  80%
 Frontend Engineering    ███████████████████░░  95%
-Database Design         ██████████████████░░░  85%
+Database Design         █████████████████░░░░  85%
 Workflow Automation     ███████████████████░░  95%
-DevOps & Deployment     ████████████████░░░░░  80%
+DevOps & Deployment     ███████████████░░░░░░  80%
 API Development         ███████████████████░░  95%
 ```
 
@@ -187,59 +184,12 @@ Tech Stack:
 </td>
 </tr>
 
-<tr>
-<td width="50%">
-
-### 📺 [YouTube Bulk Downloader](https://github.com/nikunjraykundlia/YoutubeBulkDownloader)
-**Modern Video Download Manager**
-```yaml
-Tech Stack:
-  - Real-time: WebSockets
-  - Backend: Express, yt-dlp
-  - Features: Quality selection, ZIP export
-```
-⚡ Lightning-fast bulk downloads with live progress tracking
-
-</td>
-<td width="50%">
-
-### 🎯 [HabitMaster](https://github.com/nikunjraykundlia/habitmaster)
-**Habit Tracking System**
-```yaml
-Tech Stack:
-  - Stack: React, Express, PostgreSQL
-  - ORM: Drizzle
-  - Features: Streaks, Analytics, Calendar view
-```
-📈 Data-driven habit formation with visual insights
-
 </td>
 </tr>
 </table>
 
-<div align="center">
+<div align="left">
 
-### 🎬 [TikTok Bulk Downloader](https://github.com/nikunjraykundlia/TikTokBulkDownloader)
-Watermark-free downloads • TypeScript/Express • Socket.IO real-time updates • Clean modern UI
-
----
-
-**🔥 All projects feature production-grade architecture, clean code, and real-world applications**
-
-</div>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nikunjraykundlia&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nikunjraykundlia&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="GitHub Streak"/>
-
-<img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=nikunjraykundlia&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Contribution Graph"/>
-
-</div>
 
 ---
 
@@ -296,7 +246,7 @@ Watermark-free downloads • TypeScript/Express • Socket.IO real-time updates 
 <br><sub>Integrating intelligence into every solution</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.icons8.com/fluency/96/000000/code-quality.png" width="60"/>
+<img src="https://i.ibb.co/CK3p3P0H/cleanar-removebg-preview.png" width="150"/>
 <br><b>Clean Architecture</b>
 <br><sub>Scalable, maintainable, production-ready code</sub>
 </td>
@@ -318,8 +268,7 @@ Watermark-free downloads • TypeScript/Express • Socket.IO real-time updates 
 const currentProjects = {
     learning: ["Advanced AI Agents", "Advanced N8N Workflows"],
     building: ["Agentic Interview Platform", "Automated Workflow Solutions"],
-    exploring: ["LangChain", "Voice AI Agents"],
-    collaborating: "Open to exciting full-stack and AI/ML projects!"
+    exploring: ["LangChain", "Voice AI Agents"]
 };
 ```
 
@@ -339,13 +288,11 @@ const currentProjects = {
 <br>
 
 ### 💬 Open to:
-**Full-Time Opportunities** • **Freelance Projects** • **Open Source Collaboration** • **Technical Discussions**
+**Full-Time Opportunities** • **Freelance Projects**
 
 ---
 
 <img src="https://komarev.com/ghpvc/?username=nikunjraykundlia&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
-
-<sub>⚡ "The best way to predict the future is to build it" ⚡</sub>
 
 </div>
 
