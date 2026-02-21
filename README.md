@@ -14,6 +14,7 @@ const nikunj = {
     location: "Mumbai, India 🇮🇳",
     education: "B.Tech in Information Technology",
     college: "D.J. Sanghvi College of Engineering",
+    fun fact: "Recently developed a game called Aura Rush using Godot Engine 4.6."
 };
 ```
 
