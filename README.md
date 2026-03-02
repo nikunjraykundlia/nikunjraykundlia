@@ -99,12 +99,12 @@ const nikunj = {
 
 ```text
 Full Stack Development  ██████████████████░░░  90%
-AI/ML Integration       ████████████░░░░░░░░░  75%
-Backend Architecture    █████████████░░░░░░░░  80%
+AI/ML Integration       ██████████░░░░░░░░░░░  70%
+Backend Architecture    ████████████░░░░░░░░░  75%
 Frontend Engineering    ███████████████████░░  95%
-Database Design         █████████████████░░░░  85%
+Database Design         ███████████████░░░░░░  80%
 Workflow Automation     ███████████████████░░  95%
-DevOps & Deployment     █████████████░░░░░░░░  80%
+DevOps & Deployment     █████████████░░░░░░░░  75%
 API Development         ███████████████████░░  95%
 ```
 
