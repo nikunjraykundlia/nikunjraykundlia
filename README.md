@@ -76,10 +76,7 @@ const nikunj = {
 
 ### AI/ML & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GPT-5.3](https://img.shields.io/badge/GPT--4-10a37f?style=for-the-badge&logo=openai&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+![GPT-5.2](https://img.shields.io/badge/GPT--5.2-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
@@ -102,12 +99,12 @@ const nikunj = {
 
 ```text
 Full Stack Development  ██████████████████░░░  90%
-AI/ML Integration       █████████████░░░░░░░░  75%
-Backend Architecture    ███████████████░░░░░░  80%
+AI/ML Integration       ████████████░░░░░░░░░  75%
+Backend Architecture    █████████████░░░░░░░░  80%
 Frontend Engineering    ███████████████████░░  95%
 Database Design         █████████████████░░░░  85%
 Workflow Automation     ███████████████████░░  95%
-DevOps & Deployment     ███████████████░░░░░░  80%
+DevOps & Deployment     █████████████░░░░░░░░  80%
 API Development         ███████████████████░░  95%
 ```
 
@@ -175,7 +172,7 @@ Tech Stack:
 ```yaml
 Tech Stack:
   - Backend: Flask, Python, SQLAlchemy
-  - AI: OpenAI GPT-4
+  - AI: OpenAI GPT-5.2
   - Features: ATS scoring, Interview prep, Job matching
 ```
 🎯 Intelligent career optimization with real-time feedback
@@ -190,7 +187,7 @@ Tech Stack:
 **AI-Powered Notes Q&A App**
 ```yaml
 Tech Stack:
-  - Frontend: Next.js
+  - Frontend: Next.js, React
   - AI: LLM-powered contextual Q&A
   - Features: Note ingestion, Smart querying, Instant answers
 ```
