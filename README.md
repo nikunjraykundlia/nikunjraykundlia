@@ -14,7 +14,7 @@ const nikunj = {
     location: "Mumbai, India 🇮🇳",
     education: "B.Tech in Information Technology",
     college: "D.J. Sanghvi College of Engineering",
-    fun fact: "Recently developed a game called Aura Rush using Godot Engine 4.6."
+    fun fact: "Recently developed a game called Aura Rush."
 };
 ```
 
@@ -185,12 +185,38 @@ Tech Stack:
 </td>
 </tr>
 
+<tr>
+<td width="50%">
+
+### 📝 [AskMyNotes](https://github.com/nikunjraykundlia/AskMyNotes)
+**AI-Powered Notes Q&A App**
+```yaml
+Tech Stack:
+  - Frontend: Next.js
+  - AI: LLM-powered contextual Q&A
+  - Features: Note ingestion, Smart querying, Instant answers
+```
+💡 Chat with your notes — upload, ask, and get intelligent answers instantly
+
+</td>
+<td width="50%">
+
+### 🎮 [Aura Rush](https://github.com/nikunjraykundlia/AuraRush)
+**Fast-Paced Indie Game**
+```yaml
+Tech Stack:
+  - Engine: Godot Engine 4.6
+  - Language: GDScript
+  - Features: Custom mechanics, Polished UI, Smooth gameplay
+```
+🕹️ A thrilling arcade-style game built from scratch with Godot Engine 4.6
+
 </td>
 </tr>
+
 </table>
 
 <div align="left">
-
 
 ---
 
