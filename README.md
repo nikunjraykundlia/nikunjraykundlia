@@ -215,32 +215,6 @@ Tech Stack:
 
 ---
 
-## 🏆 Achievements & Metrics
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=nikunjraykundlia&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-### 📊 Quick Stats
-
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/Projects_Deployed-7+-00D9FF?style=for-the-badge&logo=vercel&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/Technologies_Mastered-25+-00D9FF?style=for-the-badge&logo=stackshare&logoColor=white"/>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/AI_Models_Integrated-5+-00D9FF?style=for-the-badge&logo=openai&logoColor=white"/>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -288,9 +262,9 @@ Tech Stack:
 
 ```javascript
 const currentProjects = {
-    learning: ["Advanced AI Agents", "Advanced N8N Workflows"],
-    building: ["Agentic Interview Platform", "Automated Workflow Solutions"],
-    exploring: ["LangChain", "Voice AI Agents"]
+    learning: ["Advanced N8N Automations"],
+    building: ["My YouTube Channel", "Real-life Solutions"],
+    exploring: ["Django", "Voice AI"]
 };
 ```
 
@@ -310,7 +284,7 @@ const currentProjects = {
 <br>
 
 ### 💬 Open to:
-**Full-Time Opportunities** • **Freelance Projects**
+**Part-Time Opportunities** • **Freelance Projects**
 
 ---
 
