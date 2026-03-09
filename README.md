@@ -31,7 +31,7 @@ const nikunj = {
 <td align="center" width="33%">
 <img src="https://img.icons8.com/fluency/96/000000/artificial-intelligence.png" width="50"/>
 <br><b>AI/ML Integration</b>
-<br>Leveraging GPT-5.2, LLMs & ML models in production apps
+<br>Leveraging GPT-5.4, LLMs & ML models in production apps
 </td>
 <td align="center" width="33%">
 <img src="https://i.ibb.co/Z6kqFRD3/logo-n8n2x-removebg-preview.png" width="50"/>
@@ -71,7 +71,7 @@ const nikunj = {
 
 ### AI/ML & Automation
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![GPT-5.2](https://img.shields.io/badge/GPT--5.2-10a37f?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-5.4](https://img.shields.io/badge/GPT--5.2-10a37f?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![N8N](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
@@ -167,7 +167,7 @@ Tech Stack:
 ```yaml
 Tech Stack:
   - Backend: Flask, Python, SQLAlchemy
-  - AI: OpenAI GPT-5.2
+  - AI: OpenAI GPT-5.4
   - Features: ATS scoring, Interview prep, Job matching
 ```
 🎯 Intelligent career optimization with real-time feedback
