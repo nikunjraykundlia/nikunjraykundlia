@@ -1,14 +1,9 @@
-<div align="center">
-
-<!-- Animated Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&fontSize=50&fontColor=fff&fontAlignY=35&descAlignY=51&descSize=18" width="100%"/>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Nikunj+Raikundliya" alt="Typing SVG" />
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=2000&color=AAAAAA&center=true&vCenter=true&width=600&height=40&lines=Full+Stack+Developer+%7C+AI+Enthusiast" alt="Subtitle" />
-</div>
-
 </div>
 
 ---
